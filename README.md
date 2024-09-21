@@ -1,8 +1,8 @@
-# News Article Summarizer
-### Leveraging the power of LLMs for generating summaries of large news/web articles
-
-**Read the news articles in 3 easy steps: **
-1. Visit [https://concise-articles.streamlit.app/] 🔗
+# News Article Summarizer 📰
+### Leveraging the power of LLMs for generating summaries of large news/web articles 🦾
+---
+**Read the news articles in 3 easy steps:**
+1. Visit **(https://concise-articles.streamlit.app/)** 🔗
 2. Paste the article URL you want to summarize. 📰
 3. Get the summary in a few seconds.⚡
 
