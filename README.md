@@ -1,5 +1,6 @@
 # News Article Summarizer 📰
 ### Leveraging the power of LLMs for generating summaries of large news/web articles 🦾
+![image](https://github.com/user-attachments/assets/101b6866-8b84-40c2-8eb9-11ec9aa7e6f8)
 ---
 **Read the news articles in 3 easy steps:**
 1. Visit **(https://concise-articles.streamlit.app/)** 🔗
